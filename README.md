@@ -23,7 +23,9 @@ Using ` TFP.csv`:
 
 <dt><p align="justify"><b>The more aligned the points are, the more relationship they have to each other. So we can say that among the 3 countries, the USA has a greater relationship between the following period and the previous period.</b></p></dt>
 
-<h4>Forecast - USA</h4>
+<h4><b>Forecast - USA</b></h4>
+<p align="center"><img src="Capturar4.JPG"></p>
+<dt><p align="justify"><b> </b></p></dt>
 
 
 
