@@ -16,5 +16,8 @@ Using ` TFP.csv`:
 <dt><b>We can conclude that Canada has a higher frequency value than other countries.</b></dt>
 
 <h3><li><b>Forecast 10 years of the series</b></li></h3>
+<dt>The graph below shows whether there is a relationship between the previous period and the following period.They are divided by countries too: USA, CAN, MEX respectively.</dt>
+<p align="center"><img src="Capturar3.JPG"></p>
+
 <h3><li><b>Can you think about another feature that could be helpful in explaning TFP series? Explain</b></li></h3>
 </ol>
