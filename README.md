@@ -18,9 +18,10 @@ Using ` TFP.csv`:
 
 
 <h3><li><b>Forecast 10 years of the series</b></li></h3>
-<p align="justify"><dt>The graph below shows whether there is a relationship between the previous period and the following period.They are divided by countries too: USA, CAN, MEX respectively.</dt></p>
+<dt>The graph below shows whether there is a relationship between the previous period and the following period.They are divided by countries too: USA, CAN, MEX respectively.</dt>
 <p align="center"><img src="Capturar3.JPG"></p>
-<p align="justify"><dt><b>The more aligned the points are, the more relationship they have to each other. So we can say that among the 3 countries, the USA has a greater relationship between the following period and the previous period.</b></dt></p>
+
+<dt><p align="justify"><b>The more aligned the points are, the more relationship they have to each other. So we can say that among the 3 countries, the USA has a greater relationship between the following period and the previous period.</b></p></dt>
 
 <h4>Forecast - USA</h4>
 
