@@ -13,7 +13,7 @@ Using ` TFP.csv`:
 <dt>And in the figure below, I made the plot by country to know if the data has any frequency.</dt>
 <p align="center"><img src="Capturar2.JPG"></p>
 
-<dt>We can conclude that Canada has a higher frequency value than other countries.</dt>
+<dt><b>We can conclude that Canada has a higher frequency value than other countries.</b></dt>
 
 <li>Forecast 10 years of the series</li>
 <li>Can you think about another feature that could be helpful in explaning TFP series? Explain</li>
