@@ -1,6 +1,6 @@
 <img src="0.jfif">
 
-# Data Analysis Skill Test
+<p align="center"><h1><b>Data Analysis Skill Test</b></h1></p>
 <p align="justify">In this repository there are 2 cases developed for the selection process of 4 intelligences for Data Scientist.</p>
 
 ## CASE 1
