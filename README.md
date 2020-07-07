@@ -48,7 +48,7 @@
 
 <h3><b>FORECAST  - 10 years</b></h3>
 <p align="center"><img src="Fotos/Capturar13.JPG"></p>
-<dt><p align="justify">this is the forecast graph with the 3 countries. We can notice a high similarity between MEX and CAN.</p></dt>
+<dt><p align="justify">This is the forecast graph with the 3 countries. We can notice a high similarity between MEX and CAN.</p></dt>
 
 
 
@@ -63,6 +63,8 @@
 <ol>
 <h3><li><b>Show the evolution of total monthly and total annual exports from Brazil (all states and to everywhere) of ‘soybeans’, ‘soybean oil’ and ‘soybean meal’</b></li></h3>
 <h3><b>Evolution of Total Monthly</b></h3>
+<p align="center"><img src="Fotos/Capturar14.JPG"></p>
+<dt><p align="justify">With the graph side by side, we can see that the scale of the 3 products are very different.</p></dt>
 
 
 <h3><b>Evolution of Total Annual</b></h3>
