@@ -77,7 +77,7 @@
 
 
 <h3><li><b>What are the 3 most important products exported by Brazil in the last 5 years?</b></li></h3>
-
+<dt><p align="justify">The 3 most important products exported by Brazil in the last 5 years is <b>soybeans, corn and sugar</b>.</p></dt>
 
 
 
