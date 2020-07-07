@@ -26,8 +26,7 @@
 <h3><b>Forecast - USA</b></h3>
 <dt><p align="justify">The figure below shows the lollipop chart. In it, we can see that the lollipop number 6 goes into the range. So let's use number 6 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Capturar4.JPG"></p>
-<dt><p align="justify">Descomposing a Time Series into: Mean / Trends /Seasonal Effects / Noise</p></dt>
-<dt><p align="justify">Looking at the graph aelow we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a hight variation.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a hight variation.</p></dt>
 <p align="center"><img src="Capturar5.JPG"></p>
 <dt><p align="justify">Finally, we have a 10 year forecast from the USA in chart below. It is possible to observe that there is a small variation for forecast.</p></dt>
 <p align="center"><img src="Capturar6.JPG"></p>
@@ -35,8 +34,7 @@
 <h3><b>Forecast - CAN</b></h3>
 <dt><p align="justify">Differente from the USA, in CAN we can see that the lollipop number 4 goes into the range. So let's use number 4 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Capturar7.JPG"></p>
-<dt><p align="justify">Descomposing a Time Series into: Mean / Trends /Seasonal Effects / Noise.
-In the case of CAN, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
 <p align="center"><img src="Capturar8.JPG"></p>
 <dt><p align="justify">When looking at the graph, the variation seems quite large, but the forecast for 2018 is 0.974086 and for 2019 it is 1.002181.</p></dt>
 <p align="center"><img src="Capturar9.JPG"></p>
