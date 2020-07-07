@@ -42,8 +42,11 @@
 <h3><b>Forecast - MEX</b></h3>
 <dt><p align="justify">In the case to MEX, we can see that the lollipop number 5 goes into the range. So let's use number 5 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Capturar10.JPG"></p>
-<dt><p align="justify">>Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, the trend and observed lines were also similar, in additiom to a high sasonality like CAN. In the residual graph, we can see a high variation like USA.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, the trend and observed lines were also similar, in additiom to a high sasonality like CAN. In the residual graph, we can see a high variation like USA.</p></dt>
 <p align="center"><img src="Capturar11.JPG"></p>
+<dt><p align="justify">Similar to CAN forecast, the variation seems quite large, but the forecast for 2018 is 0.964114 and for 2019 it is 0.998557.</p></dt>
+<p align="center"><img src="Capturar12.JPG"></p>
+
 
 
 <h3><li><b>Can you think about another feature that could be helpful in explaning TFP series? Explain</b></li></h3>
