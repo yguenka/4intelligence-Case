@@ -9,11 +9,8 @@
 <h3><li><b>Make an exploratory data analysis</b></li></h3>
 <dt>First, I did country data analysis as the image below.</dt>
 <p align="center"><img src="Fotos/Capturar1.JPG"></p>
-
-<dt>And in the next figure, there’s a plot by country to know if the data has any frequency.
-</dt>
+<dt>And in the next figure, there’s a plot by country to know if the data has any frequency.</dt>
 <p align="center"><img src="Fotos/Capturar2.JPG"></p>
-
 <dt><b>When we analyse both pictures, we can conclude that Canada has a higher frequency value than other countries.
 </b></dt>
 
@@ -59,9 +56,21 @@
 </ol>
 
 
+
+
+
 <h2>CASE 2</h2>
 <ol>
 <h3><li><b>Show the evolution of total monthly and total annual exports from Brazil (all states and to everywhere) of ‘soybeans’, ‘soybean oil’ and ‘soybean meal’</b></li></h3>
+<h3><b>Evolution of Total Monthly</b></h3>
+
+
+<h3><b>Evolution of Total Annual</b></h3>
+
+
+
+
+
 <h3><li><b>What are the 3 most important products exported by Brazil in the last 5 years?</b></li></h3>
 <h3><li><b>What are the main routes through which Brazil have been exporting ‘corn’ in the last few years? Are there differences in the relative importancem of routes depending on the product?</b></li></h3>
 <h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
