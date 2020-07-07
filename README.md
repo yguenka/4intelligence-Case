@@ -86,7 +86,7 @@
 <dt><p align="justify">The main routes through which Brazil have been exporting 'corn' in the last few years is <b>sea</b>.</p>
 <p align="center"><img src="Fotos/Capturar19.JPG"></p>
 
-<dt><p align="justify"><b>Depending on the product and the distance, there is a great chance of damage in the middle of the road, so the routes are very important. We can oberved that sugar, soybean oil and corn are transporter products by sea.</b></p></dt>
+<dt><p align="justify"><b>We can oberved that all products are transporter products by sea.</b></p></dt>
 <p align="center"><img src="Fotos/Capturar20.JPG"></p>
 
 
@@ -129,7 +129,7 @@ Wheat: RS, PR, SC, SP and MS
 <p align="center"><img src="Fotos/Capturar27.JPG"></p>
 
 <h3><b>Forecast - Soybeans</b></h3>
-<dt><p align="justify">The lollipop number 3 goes into the range. So let's use number 3 as a repetition period for the forecast equal of corn.</p></dt>
+<dt><p align="justify">The lollipop number 3 goes into the range. So let's use number 3 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Fotos/Capturar28.JPG"></p>
 <dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed a increasing value, even with the residual value having a high variation in the final years.</p></dt>
 <p align="center"><img src="Fotos/Capturar29.JPG"></p>
@@ -137,6 +137,16 @@ Wheat: RS, PR, SC, SP and MS
 <p align="center"><img src="Fotos/Capturar30.JPG"></p>
 
 <h3><b>Forecast - Soybeans Meal</b></h3>
+<dt><p align="justify">The lollipop number 3 goes into the range. So let's use number 3 as a repetition period for the forecast equal of seabeans.</p></dt>
+<p align="center"><img src="Fotos/Capturar31.JPG"></p>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed a increasing value, even with the residual value having a high variation in the final years, equal of seabeans too.</p></dt>
+<p align="center"><img src="Fotos/Capturar32.JPG"></p>
+<dt><p align="justify">The next graph shows the forecast fot the next 11 years of soybean meal. We can see that there is a great variation in the values over the forecast.</p></dt>
+<p align="center"><img src="Fotos/Capturar33.JPG"></p>
 
-
+<h3><b>FORECAST  - 11 years</b></h3>
+<dt><p align="justify"><b>This is the forecast graph with the 3 products. We can notice a high similarity between corn and soybean meal.</b></p></dt>
+<p align="center"><img src="Fotos/Capturar34.JPG"></p>
+<dt><p align="justify"><b>But by placing the graphic side by side, we can see that the 3 products follow an increasing line.</b></p></dt>
+<p align="center"><img src="Fotos/Capturar35.JPG"></p>
 </ol>
