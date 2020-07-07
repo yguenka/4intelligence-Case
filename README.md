@@ -51,3 +51,18 @@
 
 <h3><li><b>Can you think about another feature that could be helpful in explaning TFP series? Explain</b></li></h3>
 </ol>
+
+
+<h2>CASE 2</h2>
+<ol>
+<h3><li><b>Show the evolution of total monthly and total annual exports from Brazil (all states and to everywhere) of ‘soybeans’, ‘soybean oil’ and ‘soybean meal’</b></li></h3>
+<h3><li><b>What are the 3 most important products exported by Brazil in the last 5 years?</b></li></h3>
+<h3><li><b>What are the main routes through which Brazil have been exporting ‘corn’ in the last few years? Are there differences in the relative importancem of routes depending on the product?</b></li></h3>
+<h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
+<h3><li><b>For each of the products in the dataset, show the 5 most important states in terms of exports?</b></li></h3>
+<h3><li><b>Using `covariate.xlsx`: What should be the total brazilian soybeans, soybean_meal, and corn export forecasts, in tons, for the next 11 years (2020-2030)? We’re mostly interested in the annual forecast.</b></li></h3>
+
+
+
+
+</ol>
