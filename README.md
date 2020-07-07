@@ -92,7 +92,7 @@
 
 
 <h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
-<dt><p align="justify"><b>In the case of corn, the most important countries are Iran, Vietnam and Egypt. For sugar, the most important contries are Algeria, Bangladesh and India. And ehen adding the two products, the most importante countries ate United Arab Emirates, Nigeria and Bangladesh.</b></p></dt>
+<dt><p align="justify"><b>In the case of corn, the most important countries are Iran, Vietnam and Japan. For sugar, the most important contries are India, Bangladesh and Algeria. And ehen adding the two products, the most importante countries ate China, Iran and United arab Emirates.</b></p></dt>
 <p align="center"><img src="Fotos/Capturar21.JPG"></p>
 
 
@@ -101,13 +101,13 @@
 <dt><p align="justify"><b>
 Corn: MT, PR, GO, MS and SP
 
-Sugar: SP, MG, PR, AL and MS
+Sugar: SP, PR, MG, AL and MS
 
 Soybean Meal: PR, MT, RS, GO and BA
 
 Soybean Oil: PR, RS, MT, SC and GO
 
-Soybeans: MT, PR, RS, GO and SP
+Soybeans: RS, MT, PR, GO and SP
 
 Wheat: RS, PR, SC, SP and MS
 </b></p></dt>
@@ -116,6 +116,17 @@ Wheat: RS, PR, SC, SP and MS
 
 
 
+<h3><li><b>What should be the total brazilian soybeans, soybean_meal, and corn export forecasts, in tons, for the next 11 years (2020-2030)? We’re mostly interested in the annual forecast.</b></li></h3>
+<dt><p align="justify">When analyzing the 3 lag plots, we can see the soybeans has a greater relationship between the previous period and the later period than the other products</p></dt>
+<p align="center"><img src="Fotos/Capturar24.JPG"></p>
 
-<h3><li><b>Using `covariate.xlsx`: What should be the total brazilian soybeans, soybean_meal, and corn export forecasts, in tons, for the next 11 years (2020-2030)? We’re mostly interested in the annual forecast.</b></li></h3>
+<h3><b>Forecast - Corn</b></h3>
+<dt><p align="justify">We can see that the lollipop number 2 goes into the range. So let's use number 2 as a repetition period for the forecast.</p></dt>
+<p align="center"><img src="Fotos/Capturar25.JPG"></p>
+
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a variation.</p></dt>
+<p align="center"><img src="Fotos/Capturar26.JPG"></p>
+
+
+
 </ol>
