@@ -78,11 +78,32 @@
 
 <h3><li><b>What are the 3 most important products exported by Brazil in the last 5 years?</b></li></h3>
 <dt><p align="justify">The 3 most important products exported by Brazil in the last 5 years is <b>soybeans, corn and sugar</b>.</p></dt>
+<p align="center"><img src="Fotos/Capturar18.JPG"></p>
 
 
 
-<h3><li><b>What are the main routes through which Brazil have been exporting ‘corn’ in the last few years? Are there differences in the relative importancem of routes depending on the product?</b></li></h3>
+<h3><li><b>What are the main routes through which Brazil have been exporting ‘corn’ in the last few years? Are there differences in the relative importance of routes depending on the product?</b></li></h3>
+<dt><p align="justify">The main routes through which Brazil have been exporting 'corn' in the last few years is <b>sea</b>.</p>
+<p align="center"><img src="Fotos/Capturar19.JPG"></p>
+
+<dt><p align="justify">Depending on the product and the distance, there is a great chance of damage in the middle of the road, so the routes are very important.</p></dt>
+<p align="center"><img src="Fotos/Capturar20.JPG"></p>
+
+
+
+
+
+
+
+
+
+
+
 <h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
+
+
+
+
 <h3><li><b>For each of the products in the dataset, show the 5 most important states in terms of exports?</b></li></h3>
 <h3><li><b>Using `covariate.xlsx`: What should be the total brazilian soybeans, soybean_meal, and corn export forecasts, in tons, for the next 11 years (2020-2030)? We’re mostly interested in the annual forecast.</b></li></h3>
 
