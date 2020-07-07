@@ -4,7 +4,7 @@
 <p align="justify">In this repository there are 2 cases developed for the selection process of 4 intelligences for Data Scientist.</p>
 
 <h2>CASE 1</h2>
-Using ` TFP.csv`:
+<p align="justify">Using `TFP.csv`:</p>
 <ol>
 <h3><li><b>Make an exploratory data analysis</b></li></h3>
 <dt>In the first, I did country data analysis as the image below.</dt>
