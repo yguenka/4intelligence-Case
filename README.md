@@ -25,7 +25,7 @@
 <h3><b>Forecast - USA</b></h3>
 <dt><p align="justify">The figure below shows the lollipop chart. In it, we can see that the lollipop number 6 goes into the range. So let's use number 6 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Fotos/Capturar4.JPG"></p>
-<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a hight variation.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even with the residual value having a hight variation.</p></dt>
 <p align="center"><img src="Fotos/Capturar5.JPG"></p>
 <dt><p align="justify">Finally, we found a 10 year forecast from the USA in chart below. It is possible to observe that there is a small variation for forecast.</p></dt>
 <p align="center"><img src="Fotos/Capturar6.JPG"></p>
@@ -123,10 +123,20 @@ Wheat: RS, PR, SC, SP and MS
 <h3><b>Forecast - Corn</b></h3>
 <dt><p align="justify">We can see that the lollipop number 2 goes into the range. So let's use number 2 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Fotos/Capturar25.JPG"></p>
-
-<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a high variation in the final years.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even with the residual value having a high variation in the final years.</p></dt>
 <p align="center"><img src="Fotos/Capturar26.JPG"></p>
+<dt><p align="justify">The next graph shows the forecast fot the next 11 years of corn.</p></dt>
+<p align="center"><img src="Fotos/Capturar27.JPG"></p>
 
+<h3><b>Forecast - Soybeans</b></h3>
+<dt><p align="justify">The lollipop number 3 goes into the range. So let's use number 3 as a repetition period for the forecast equal of corn.</p></dt>
+<p align="center"><img src="Fotos/Capturar28.JPG"></p>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed a increasing value, even with the residual value having a high variation in the final years.</p></dt>
+<p align="center"><img src="Fotos/Capturar29.JPG"></p>
+<dt><p align="justify">The next graph shows the forecast fot the next 11 years of soybeans. We can see that there is a great variation in the values over the forecast.</p></dt>
+<p align="center"><img src="Fotos/Capturar30.JPG"></p>
+
+<h3><b>Forecast - Soybeans Meal</b></h3>
 
 
 </ol>
