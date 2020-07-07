@@ -94,9 +94,7 @@
 <h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
 <dt><p align="justify">
 In the case of corn, the most important countries are Iran, Vietnam and Egypt.
-
 For sugar, the most important contries are Algeria, Bangladesh and India.
-
 When adding the two products, the most importante countries ate United Arab Emirates, Nigeria and Bangladesh.</p></dt>
 <p align="center"><img src="Fotos/Capturar21.JPG"></p>
 
