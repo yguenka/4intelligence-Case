@@ -86,28 +86,25 @@
 <dt><p align="justify">The main routes through which Brazil have been exporting 'corn' in the last few years is <b>sea</b>.</p>
 <p align="center"><img src="Fotos/Capturar19.JPG"></p>
 
-<dt><p align="justify">Depending on the product and the distance, there is a great chance of damage in the middle of the road, so the routes are very important.</p></dt>
+<dt><p align="justify">Depending on the product and the distance, there is a great chance of damage in the middle of the road, so the routes are very important. We can oberved that sugar, soybean oil and corn are transporter products by sea.</p></dt>
 <p align="center"><img src="Fotos/Capturar20.JPG"></p>
 
 
 
-
-
-
-
-
-
-
-
 <h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
+<dt><p align="justify">
+In the case of corn, the most important countries are Iran, Vietnam and Egypt.
+
+For sugar, the most important contries are Algeria, Bangladesh and India.
+
+When adding the two products, the most importante countries ate United Arab Emirates, Nigeria and Bangladesh.</p></dt>
+<p align="center"><img src="Fotos/Capturar21.JPG"></p>
+
+
 
 
 
 
 <h3><li><b>For each of the products in the dataset, show the 5 most important states in terms of exports?</b></li></h3>
 <h3><li><b>Using `covariate.xlsx`: What should be the total brazilian soybeans, soybean_meal, and corn export forecasts, in tons, for the next 11 years (2020-2030)? We’re mostly interested in the annual forecast.</b></li></h3>
-
-
-
-
 </ol>
