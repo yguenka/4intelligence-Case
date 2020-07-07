@@ -124,7 +124,7 @@ Wheat: RS, PR, SC, SP and MS
 <dt><p align="justify">We can see that the lollipop number 2 goes into the range. So let's use number 2 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Fotos/Capturar25.JPG"></p>
 
-<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a variation.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a high variation in the final years.</p></dt>
 <p align="center"><img src="Fotos/Capturar26.JPG"></p>
 
 
