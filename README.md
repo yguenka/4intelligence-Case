@@ -34,12 +34,16 @@
 <h3><b>Forecast - CAN</b></h3>
 <dt><p align="justify">Differente from the USA, in CAN we can see that the lollipop number 4 goes into the range. So let's use number 4 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Capturar7.JPG"></p>
-<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a high variation in the early years and a smaller variation in the other years.</p></dt>
 <p align="center"><img src="Capturar8.JPG"></p>
 <dt><p align="justify">When looking at the graph, the variation seems quite large, but the forecast for 2018 is 0.974086 and for 2019 it is 1.002181.</p></dt>
 <p align="center"><img src="Capturar9.JPG"></p>
 
-
+<h3><b>Forecast - MEX</b></h3>
+<dt><p align="justify">In the case to MEX, we can see that the lollipop number 5 goes into the range. So let's use number 5 as a repetition period for the forecast.</p></dt>
+<p align="center"><img src="Capturar10.JPG"></p>
+<dt><p align="justify">>Descomposing a Time Series into: Mean, Trends, Seasonal Effects and Noise, the trend and observed lines were also similar, in additiom to a high sasonality like CAN. In the residual graph, we can see a high variation like USA.</p></dt>
+<p align="center"><img src="Capturar11.JPG"></p>
 
 
 <h3><li><b>Can you think about another feature that could be helpful in explaning TFP series? Explain</b></li></h3>
