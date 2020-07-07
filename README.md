@@ -24,10 +24,14 @@
 <dt><p align="justify"><b>The more aligned the points are, the more relationship they have to each other. So we can say that among the 3 countries, the USA has a greater relationship between the following period and the previous period.</b></p></dt>
 
 <h3><b>Forecast - USA</b></h3>
-<dt><p align="justify"><b>The figure below shows the lollipop chart. In it, we can see that the lollipop number 6 goes into the range. So let's use number 6 as a repetition period for the forecast.</b></p></dt>
+<dt><p align="justify">The figure below shows the lollipop chart. In it, we can see that the lollipop number 6 goes into the range. So let's use number 6 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Capturar4.JPG"></p>
-
-
+<dt><p align="justify">Descomposing a Time Series into:</p></dt>
+<ul>Mean</ul>
+<ul>Trends</ul>
+<ul>Seasonal Effects</ul>
+<ul>Noise</ul>
+<p align="center"><img src="Capturar5.JPG"></p>
 
 <h3><li><b>Can you think about another feature that could be helpful in explaning TFP series? Explain</b></li></h3>
 </ol>
