@@ -35,8 +35,9 @@
 <h3><b>Forecast - CAN</b></h3>
 <dt><p align="justify">Differente from the USA, in CAN we can see that the lollipop number 4 goes into the range. So let's use number 4 as a repetition period for the forecast.</p></dt>
 <p align="center"><img src="Capturar7.JPG"></p>
-<dt><p align="justify">Descomposing a Time Series into: Mean / Trends /Seasonal Effects / Noise</p></dt>
-<dt><p align="justify">In the case of CAN, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
+<dt><p align="justify">Descomposing a Time Series into: Mean / Trends /Seasonal Effects / Noise
+
+In the case of CAN, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
 <p align="center"><img src="Capturar8.JPG"></p>
 <dt><p align="justify">When looking at the graph, the variation seems quite large, but the forecast for 2018 is 0.974086 and for 2019 it is 1.002181.</p></dt>
 <p align="center"><img src="Capturar9.JPG"></p>
