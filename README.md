@@ -38,6 +38,19 @@
 <dt><p align="justify">Finally, we have a 10 year forecast from the USA in chart below.</p></dt>
 <p align="center"><img src="Capturar6.JPG"></p>
 
+<h3><b>Forecast - CAN</b></h3>
+<dt><p align="justify">Differente from the USA, in CAN we can see that the lollipop number 4 goes into the range. So let's use number 4 as a repetition period for the forecast.</p></dt>
+<p align="center"><img src="Capturar7.JPG"></p>
+<dt><p align="justify">Descomposing a Time Series into:</p></dt>
+<ul>
+<il>Mean</il>
+<il>Trends</il>
+<il>Seasonal Effects</il>
+<il>Noise</il>
+</ul>
+<dt><p align="justify">In the case of CAN, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
+<p align="center"><img src="Capturar8.JPG"></p>
+
 
 
 
