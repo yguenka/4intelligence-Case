@@ -63,17 +63,24 @@
 <ol>
 <h3><li><b>Show the evolution of total monthly and total annual exports from Brazil (all states and to everywhere) of ‘soybeans’, ‘soybean oil’ and ‘soybean meal’</b></li></h3>
 <h3><b>Evolution of Total Monthly</b></h3>
+<dt><p align="justify">By placing the graphs on the side, we can see that the product scale is very similar if you are not careful to see the y-axis in which there is a big difference in the amount of soybeans and soybean meal.</p></dt>
 <p align="center"><img src="Fotos/Capturar14.JPG"></p>
-<dt><p align="justify">With the graph side by side, we can see that the scale of the 3 products are very different.</p></dt>
-
+<dt><p align="justify">But when placing on the same scale, it is possible to observe the difference in quantity between the products.</p></dt>
+<p align="center"><img src="Fotos/Capturar15.JPG"></p>
 
 <h3><b>Evolution of Total Annual</b></h3>
-
-
+<dt><p align="justify">For annual values, we can observe an increasing curve for soybeans and for soybeans meal, different from soybean oil.</p></dt>
+<p align="center"><img src="Fotos/Capturar16.JPG"></p>
+<dt><p align="justify">When placed on the same scale, it's' difficult to visualize the drop in soybean oil exports.</p></dt>
+<p align="center"><img src="Fotos/Capturar17.JPG"></p>
 
 
 
 <h3><li><b>What are the 3 most important products exported by Brazil in the last 5 years?</b></li></h3>
+
+
+
+
 <h3><li><b>What are the main routes through which Brazil have been exporting ‘corn’ in the last few years? Are there differences in the relative importancem of routes depending on the product?</b></li></h3>
 <h3><li><b>Which countries have been the most important trade partners for Brazil in terms of ‘corn’ and ‘sugar’ in the last 3 years?</b></li></h3>
 <h3><li><b>For each of the products in the dataset, show the 5 most important states in terms of exports?</b></li></h3>
