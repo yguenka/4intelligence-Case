@@ -35,7 +35,7 @@
 </ul>
 <dt><p align="justify">Looking at the graph aelow we can see that both the trend and the observed value have a similarity, in additioin to having a sasonality, even wih the residual value having a hight variation.</p></dt>
 <p align="center"><img src="Capturar5.JPG"></p>
-<dt><p align="justify">Finally, we have a 10 year forecast from the USA in chart below.</p></dt>
+<dt><p align="justify">Finally, we have a 10 year forecast from the USA in chart below. It is possible to observe that there is a small variation for forecast.</p></dt>
 <p align="center"><img src="Capturar6.JPG"></p>
 
 <h3><b>Forecast - CAN</b></h3>
@@ -50,6 +50,8 @@
 </ul>
 <dt><p align="justify">In the case of CAN, the trend and observed lines were also similar, in addition to a high sasonality. In the residual graph, we can see a hight variation in the early years and a smaller variation in the other years.</p></dt>
 <p align="center"><img src="Capturar8.JPG"></p>
+<dt><p align="justify">When looking at the graph, the variation seems quite large, but the forecast for 2018 is 0.974086 and for 2019 it is 1.002181.</p></dt>
+<p align="center"><img src="Capturar9.JPG"></p>
 
 
 
