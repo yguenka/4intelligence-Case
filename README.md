@@ -53,12 +53,19 @@
 
 
 <h3><li><b>Can you think about another feature that could be helpful in explaning TFP series? Explain</b></li></h3>
-<dt><p align="justify"><b>The TFP is a measure of residue, that is, it's the portion of the product not explained by physical capital, human capital and the amount of hours worked. For example, in years when the return to work goes up, the productivity component increases, which increases the factors and, for a given product level, reduces the PTF.
+<dt><p align="justify">The TFP is a measure of residue, that is, it's the portion of the product not explained by physical capital, human capital and the amount of hours worked. For example, in years when the return to work goes up, the productivity component increases, which increases the factors and, for a given product level, reduces the PTF.
 
 Then we can use the following geatures to calculate the TFP:
 
-TFP = rgdpna/rkna
-</b></p></dt>
+<b>rgdpna</b> Real GDP at constant 2005 national prices (in million 2005 USD).
+
+<b>rkna</b> Capital stock at constant 2005 national prices (in million 2005 USD).
+
+like the following formula:
+
+<b>TFP = rgdpna/rkna</b>
+
+</p></dt>
 </ol>
 
 
