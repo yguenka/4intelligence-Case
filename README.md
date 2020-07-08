@@ -63,7 +63,7 @@ Then we can use the following geatures to calculate the TFP:
 
 like the following formula:
 
-<b>TFP = rgdpna/rkna</b>
+<h3><p align="justify"><b>TFP = rgdpna/rkna</b></p></h3>
 
 </p></dt>
 </ol>
