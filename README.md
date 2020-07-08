@@ -59,7 +59,7 @@ Then we can use the following geatures to calculate the TFP:<br />
 <b>rgdpna</b>:Real GDP at constant 2005 national prices (in million 2005 USD).<br />
 <b>rkna</b>:Capital stock at constant 2005 national prices (in million 2005 USD).<br />
 like the following formula:<br />
-<h3><p align="justify"><b>TFP = rgdpna/rkna</b></p></h3>
+<p align="justify"><h3><b>TFP = rgdpna/rkna</b></h3></p>
 
 </p></dt>
 </ol>
